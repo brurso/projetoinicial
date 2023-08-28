@@ -36,7 +36,7 @@ Uma Landing page simples com links para os projetos e redes sociais
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/pjmTzoepb6fLf1lX8sDKGx/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1-113&mode=design). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/pjmTzoepb6fLf1lX8sDKGx/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1-113&mode=design>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
